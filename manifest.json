@@ -2,7 +2,7 @@
   "name": "魚梯",
   "short_name": "ecology-project",
   "description": "我喜歡魚、也應該要保護魚,不能只靠別人來做，我要自己學魚道知識。",
-  "start_url": " https://taylor-wu96.github.io/Ecology-Project-Viewer/index.html",
+  "start_url": "https://taylor-wu96.github.io/Ecology-Project-Viewer/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
